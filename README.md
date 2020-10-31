@@ -2,7 +2,7 @@
 [Grid Tagging Scheme for Aspect-oriented Fine-grained Opinion Extraction](https://arxiv.org/pdf/2010.04640.pdf). Zhen Wu, Chengcan Ying, Fei Zhao, Zhifang Fan, Xinyu Dai, Rui Xia. In Findings of EMNLP, 2020.
 
 ## Data
-Data format description are [here](https://github.com/NJUNLP/GTS/blob/main/data/datareadme.md).
+Data format descriptions are [here](https://github.com/NJUNLP/GTS/blob/main/data/datareadme.md).
 
 ## Citation
 If you used the datasets, please cite our paper:
