@@ -30,9 +30,9 @@ def train(args):
     model = MultiInferBert(args).to(args.device)
 
     optimizer = torch.optim.Adam([
-        {'params': model.bert.parameters(), 'lr': 2e-5},
+        {'params': model.bert.parameters(), 'lr': 5e-5},
         {'params': model.cls_linear.parameters()}
-    ], lr=2e-5)
+    ], lr=5e-5)
 
     best_joint_f1 = 0
     best_joint_epoch = 0
@@ -139,7 +139,7 @@ if __name__ == '__main__':
 
     parser.add_argument('--nhops', type=int, default=1,
                         help='inference times')
-    parser.add_argument('--batch_size', type=int, default=10,
+    parser.add_argument('--batch_size', type=int, default=32,
                         help='bathc size')
     parser.add_argument('--epochs', type=int, default=100,
                         help='training epoch number')

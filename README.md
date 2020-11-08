@@ -4,6 +4,24 @@
 ## Data
 Data format descriptions are [here](https://github.com/NJUNLP/GTS/blob/main/data/datareadme.md).
 
+## Requirements
+* pytorch=1.4.0
+* python=3.6
+
+## Usage
+- ### Training
+For example, you can use the folowing command to fine-tune Bert on the OPE task (the pre-trained Bert model is saved in the folder "pretrained/"):
+```
+python main.py --task pair --mode train --dataset res14
+```
+The best model will be saved in the folder "savemodel/".
+
+- ### Testing
+For example, you can use the folowing command to test Bert on the OPE task:
+```
+python main.py --task pair --mode test --dataset res14
+```
+
 ## Citation
 If you used the datasets, please cite our paper:
 ```bibtex
