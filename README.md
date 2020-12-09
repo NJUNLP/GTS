@@ -27,7 +27,7 @@ python main.py --task pair --mode test --dataset res14
 **Note**: In our pre-experiments, a smaller batch size and learning rate can achieve better performance on certain datasets, while we use a general setting in our paper to save time instead of adopting grid search.
 
 ## Citation
-If you used the datasets, please cite our paper:
+If you used the datasets or code, please cite our paper:
 ```bibtex
 @inproceedings{wu-etal-2020-grid,
     title = "Grid Tagging Scheme for Aspect-oriented Fine-grained Opinion Extraction",
