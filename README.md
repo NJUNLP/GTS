@@ -29,12 +29,22 @@ python main.py --task pair --mode test --dataset res14
 ## Citation
 If you used the datasets, please cite our paper:
 ```bibtex
-@article{wu2020grid,
-  title     = {Grid Tagging Scheme for Aspect-oriented Fine-grained Opinion Extraction},
-  author    = {Zhen Wu and Chengcan Ying and Fei Zhao and Zhifang Fan and Xinyu Dai and Rui Xia},
-  booktitle = {Findings of EMNLP},
-  year      = {2020},
-  url       = {https://arxiv.org/pdf/2010.04640.pdf},
+@inproceedings{wu-etal-2020-grid,
+    title = "Grid Tagging Scheme for Aspect-oriented Fine-grained Opinion Extraction",
+    author = "Wu, Zhen  and
+      Ying, Chengcan  and
+      Zhao, Fei  and
+      Fan, Zhifang  and
+      Dai, Xinyu  and
+      Xia, Rui",
+    booktitle = "Findings of the Association for Computational Linguistics: EMNLP 2020",
+    month = nov,
+    year = "2020",
+    address = "Online",
+    publisher = "Association for Computational Linguistics",
+    url = "https://www.aclweb.org/anthology/2020.findings-emnlp.234",
+    doi = "10.18653/v1/2020.findings-emnlp.234",
+    pages = "2576--2585",
 }
 ```
 
