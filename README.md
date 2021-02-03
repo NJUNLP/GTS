@@ -7,7 +7,9 @@
 Data format descriptions are [here](https://github.com/NJUNLP/GTS/blob/main/data/datareadme.md).
 
 ## Requirements
-* pytorch=1.4.0
+See requirement.txt or Pipfile for details
+* pytorch==1.7.1
+* transformers==3.4.0
 * python=3.6
 
 ## Usage

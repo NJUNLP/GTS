@@ -1,0 +1,26 @@
+-i https://pypi.org/simple
+certifi==2020.12.5
+chardet==4.0.0
+click==7.1.2
+dataclasses==0.8 ; python_version < '3.7'
+filelock==3.0.12
+idna==2.10
+joblib==1.0.0
+numpy==1.19.5
+packaging==20.9
+protobuf==3.14.0
+pyparsing==2.4.7
+regex==2020.11.13
+requests==2.25.1
+sacremoses==0.0.43
+scikit-learn==0.24.1
+scipy==1.5.4
+sentencepiece==0.1.95
+six==1.15.0
+threadpoolctl==2.1.0
+tokenizers==0.9.2
+torch==1.7.1
+tqdm==4.56.0
+transformers==3.4.0
+typing-extensions==3.7.4.3
+urllib3==1.26.3
