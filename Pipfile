@@ -1,0 +1,16 @@
+[[source]]
+name = "pypi"
+url = "https://pypi.org/simple"
+verify_ssl = true
+
+[dev-packages]
+
+[packages]
+tqdm = "*"
+numpy = "*"
+scikit-learn = "*"
+torch = ">=1.4.0"
+transformers = "==3.4.0"
+
+[requires]
+python_version = "3.6"
