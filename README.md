@@ -6,6 +6,8 @@
 
 Data format descriptions are [here](https://github.com/NJUNLP/GTS/blob/main/data/datareadme.md).
 
+**Note**: our opinion triplet datasets are from alignments of our previous work [TOWE](https://www.aclweb.org/anthology/N19-1259/) datasets and the original SemEval [2014](https://www.aclweb.org/anthology/S14-2004/), [2015](https://www.aclweb.org/anthology/S15-2082/), [2016](https://www.aclweb.org/anthology/S16-1002/) datasets.
+
 ## Requirements
 See requirement.txt or Pipfile for details
 * pytorch==1.7.1
