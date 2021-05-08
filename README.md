@@ -49,6 +49,24 @@ If you used the datasets or code, please cite our paper:
     pages = "2576--2585",
 }
 ```
+```bibtex
+@inproceedings{fan-etal-2019-target,
+    title = "Target-oriented Opinion Words Extraction with Target-fused Neural Sequence Labeling",
+    author = "Fan, Zhifang  and
+      Wu, Zhen  and
+      Dai, Xin-Yu  and
+      Huang, Shujian  and
+      Chen, Jiajun",
+    booktitle = "Proceedings of the 2019 Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies, Volume 1 (Long and Short Papers)",
+    month = jun,
+    year = "2019",
+    address = "Minneapolis, Minnesota",
+    publisher = "Association for Computational Linguistics",
+    url = "https://www.aclweb.org/anthology/N19-1259",
+    doi = "10.18653/v1/N19-1259",
+    pages = "2509--2518",
+}
+```
 
 ## Reference
 [1]. Zhen Wu, Chengcan Ying, Fei Zhao, Zhifang Fan, Xinyu Dai, Rui Xia. [Grid Tagging Scheme for Aspect-oriented Fine-grained Opinion Extraction](https://arxiv.org/pdf/2010.04640.pdf). In Findings of EMNLP, 2020.
