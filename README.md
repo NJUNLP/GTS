@@ -169,7 +169,7 @@ GTS performance on [opinion triplet extraction (OTE) datasets](https://github.co
 	</tr>
 </table>
 
-GTS performance on [ASTEData-V2](https://arxiv.org/pdf/2010.02609.pdf):
+GTS performance on [ASTE-Data-V2 datasets](https://arxiv.org/pdf/2010.02609.pdf):
 <table>
 	<tr>
 	    <th rowspan="2">Methods</th>
