@@ -194,9 +194,9 @@ GTS performance on [ASTE-Data-V2 datasets](https://arxiv.org/pdf/2010.02609.pdf)
 	</tr>
 	<tr >
 	  <td>GTS-BERT</td>
-	  <td>67.25</td>
-	  <td>69.22</td>
-      <td>68.22</td>
+	  <td>68.71</td>
+	  <td>67.67</td>
+      <td>68.17</td>
       <td>58.54</td>
       <td>50.65</td>
       <td>54.30</td>
